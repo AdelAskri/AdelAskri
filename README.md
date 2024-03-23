@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AdelAskri
 - 👀 I’m interested in Flutter, Firebase and Blockchain
-- 💞️ I’m looking to collaborate on big BOOM-BOOM projects
 - 📫 How to reach me adel.askri@outlook.fr
 
 <!---
